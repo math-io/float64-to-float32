@@ -41,7 +41,8 @@
     "float",
     "to",
     "bits",
-    "types"
+    "types",
+    "number"
   ],
   "bugs": {
     "url": "https://github.com/math-io/float64-to-float32/issues"
