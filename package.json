@@ -1,6 +1,6 @@
 {
   "name": "float64-to-float32",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Converts a double-precision floating-point number to the nearest single-precision floating-point number.",
   "author": {
     "name": "Athan Reines",
